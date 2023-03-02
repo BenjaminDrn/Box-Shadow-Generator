@@ -4,7 +4,7 @@ This box-shadow generator is a tool that allows you to create shadow effects on 
 
 ## Use
 
-1. Open the box-shadow generator in your favorite web browser.
+1. [Open the box-shadow generator in your favorite web browser](https://lddw.github.io/Box-Shadow-Generator/).
 2. Use the sliders or input fields to adjust the properties of the box-shadow, such as color, size, opacity and direction.
 3. When you are satisfied with the result, copy the generated CSS code into your CSS file or directly into your HTML tag.
 
